@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6753e4e5ecc889bb0d0c66ae?variant=dark&roadmaps=ios)](https://roadmap.sh)
+
+Having made a career shift from being a programmer. 
+Exploring new paths in independent development. 
+Admire simplicity and elegance, and a firm practitioner of minimalism. 
+Sometimes as laid-back as a Buddhist, while at other times can be highly efficient. 
+Constantly seeking a balance within these contradictions. 
+Not only enjoy the peaceful solitude when alone but also love the lively and casual chatting with others. 
